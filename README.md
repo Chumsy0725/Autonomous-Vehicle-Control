@@ -1,5 +1,5 @@
 # Autonomus Vehicle Control
-This repocitory contain an Implementation of Autonomous Vehicle Control for Self Driving Cars on CARLA Simulator using python for the course Introduction to Self Driving Cars in Self Driving Cars Specialization in Coursera
+This repository contain an Implementation of Autonomous Vehicle Control for Self Driving Cars on CARLA Simulator using python for the course Introduction to Self Driving Cars in Self Driving Cars Specialization in Coursera
 Both Lateral and Longitudanal Controls were implemented to generate the Control Signals Throttle, Brake and Steering.
 
 ## Vehicle Model
