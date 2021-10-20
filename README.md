@@ -2,6 +2,8 @@
 This repository contain an Implementation of Autonomous Vehicle Control for Self Driving Cars on CARLA Simulator using python for the course Introduction to Self Driving Cars in Self Driving Cars Specialization in Coursera
 Both Lateral and Longitudanal Controls were implemented to generate the Control Signals Throttle, Brake and Steering.
 
+
+<video src='Images/Demo.mp4' width=180/>
 ## Vehicle Model
 For the implementation of the control kinematic bicycle model was used as the prefered vehicle model where front wheels are used as steering wheels and rear wheels are used as driving wheels.
 
