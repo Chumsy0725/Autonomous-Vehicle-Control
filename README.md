@@ -3,7 +3,11 @@ This repository contain an Implementation of Autonomous Vehicle Control for Self
 Both Lateral and Longitudanal Controls were implemented to generate the Control Signals Throttle, Brake and Steering.
 
 
-<video src='Images/Demo.mp4' width=180/>
+
+
+https://user-images.githubusercontent.com/58227113/138078943-973aca8c-9a99-493c-98f6-752c6a0a9caf.mp4
+
+
 ## Vehicle Model
 For the implementation of the control kinematic bicycle model was used as the prefered vehicle model where front wheels are used as steering wheels and rear wheels are used as driving wheels.
 
